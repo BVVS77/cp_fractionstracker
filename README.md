@@ -1,6 +1,6 @@
 ## cp_vehicleTracker - Vehicle Tracking Script for FiveM
 
-This repository contains the `cp_vehicleTracker` script, a FiveM resource developed by the CodePeak DEVELOPMENT TEAM. It allows law enforcement and other factions to track vehicles equipped with transmitters. The script integrates with **ox_target** for interaction with vehicles and utilizes the **ESX** framework for server-client communication, providing real-time blip updates on tracked vehicles.
+This repository contains the `cp_fractionsTracker` script, a FiveM resource developed by the CodePeak DEVELOPMENT TEAM. It allows law enforcement and other factions to track vehicles equipped with transmitters. The script integrates with **ox_target** for interaction with vehicles and utilizes the **ESX** framework for server-client communication, providing real-time blip updates on tracked vehicles.
 
 ### Features
 - Automatically track vehicles equipped with transmitters for specific factions (e.g., LSPD, LSSD).
@@ -22,7 +22,7 @@ To use this script, you need the following:
 1. Download the repository and place it in your server's `resources` folder.
 2. Add the following line to your `server.cfg`:
    ```
-   start cp_vehicleTracker
+   start cp_fractionstracker
    ```
 
 ### Configuration
