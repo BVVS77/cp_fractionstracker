@@ -1,4 +1,4 @@
-## cp_vehicleTracker - Vehicle Tracking Script for FiveM
+## cp_fractionsTracker - Vehicle Tracking Script for FiveM
 
 This repository contains the `cp_fractionsTracker` script, a FiveM resource developed by the CodePeak DEVELOPMENT TEAM. It allows law enforcement and other factions to track vehicles equipped with transmitters. The script integrates with **ox_target** for interaction with vehicles and utilizes the **ESX** framework for server-client communication, providing real-time blip updates on tracked vehicles.
 
@@ -30,4 +30,4 @@ To use this script, you need the following:
 - Customize blip color, size, and name according to your needs.
 
 ### Feedback and Support
-Join our **DISCORD** community for feedback, support, and updates: [https://discord.gg/SvbGD9dkKJ](https://discord.gg/SvbGD9dkKJ)
+Join our **DISCORD** community for feedback, support, and updates: [CodePeak Discord](https://discord.gg/SvbGD9dkKJ)
