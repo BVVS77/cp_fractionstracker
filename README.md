@@ -31,3 +31,5 @@ To use this script, you need the following:
 
 ### Feedback and Support
 Join our **DISCORD** community for feedback, support, and updates: [CodePeak Discord](https://discord.gg/SvbGD9dkKJ)
+
+CFX.RE [cp_fractionsTracker](https://forum.cfx.re/t/cp-fractionstracker/5268178/2)
